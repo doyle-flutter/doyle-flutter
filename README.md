@@ -23,7 +23,7 @@ Dart | Angel | [Code](https://github.com/doyle-flutter/Recipe)
 Python | Django | [Code](https://github.com/doyle-flutter/basicDjangoPython)
 Python | Flask | [Code](https://github.com/doyle-flutter/jamesPythonFlaskBackEnd)
 JS | React-Native | [Code](https://github.com/doyle-flutter/basicReactNative)
-JS | React | [Code](https://github.com/doyle-flutter/basicReact)
+JS | React | [Code - CDN](https://github.com/doyle-flutter/basicReact)
 JS | React(NextJS) | [Code](https://github.com/doyle-flutter/NodeJsExpressNextJsReact)
 JS | Svelte | ...
 C# | .Net | ...
