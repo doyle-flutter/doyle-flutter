@@ -14,7 +14,8 @@ Lang | FrameWork | GutHub
 ------------ | ------------- | ------------- 
 Dart | Flutter | [Code 1](https://github.com/doyle-flutter/basicflutter) / [Code 2](https://github.com/doyle-flutter/Recipe)
 JS | Node.js(Express.js) | [Code](https://github.com/doyle-flutter/basicflutter)
-JS | Vue.js | [Code](https://github.com/doyle-flutter/basicVue)
+JS | React | [Code - CDN](https://github.com/doyle-flutter/basicReact) / [Code - NextJS](https://github.com/doyle-flutter/NodeJsExpressNextJsReact)
+
 
 ## Sub Stack
 Lang | FrameWork | GutHub
@@ -23,9 +24,8 @@ Dart | Angel | [Code](https://github.com/doyle-flutter/Recipe)
 Python | Django | [Code](https://github.com/doyle-flutter/basicDjangoPython)
 Python | Flask | [Code](https://github.com/doyle-flutter/jamesPythonFlaskBackEnd)
 JS | React-Native | [Code](https://github.com/doyle-flutter/basicReactNative)
-JS | React | [Code - CDN](https://github.com/doyle-flutter/basicReact)
-JS | React(NextJS) | [Code](https://github.com/doyle-flutter/NodeJsExpressNextJsReact)
-JS | Svelte | ...
+JS | Vue.js | [Code](https://github.com/doyle-flutter/basicVue)
+JS | Svelte | [Code](https://github.com/doyle-flutter/basicSvelte)
 PHP | Laravel | [Code](https://github.com/doyle-flutter/basicPhpLaravel/tree/master/mylrv)
 C# | .Net | ...
 C | - | ...
