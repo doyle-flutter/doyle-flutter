@@ -8,11 +8,11 @@
 - Cafe - [네이버 JamesDev](https://cafe.naver.com/flutterjames)
 - Contact E-Mail - afzxc@naver.com
 
-[![JamesDev github stats](https://github-readme-stats.vercel.app/api?username=doyle-flutter)](https://github.com/anuraghazra/github-readme-stats)  
+[![JamesDev github stats](https://github-readme-stats.vercel.app/api?username=doyle-flutter)](https://github.com/doyle-flutter?tab=repositories)  
 
 ## Main Stack
 
-[![JamesDev Status](https://github-readme-stats.vercel.app/api/top-langs/?username=doyle-flutter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![JamesDev Status](https://github-readme-stats.vercel.app/api/top-langs/?username=doyle-flutter&layout=compact)](https://github.com/doyle-flutter?tab=repositories)
 
 Lang | FrameWork | GutHub
 ------------ | ------------- | ------------- 
