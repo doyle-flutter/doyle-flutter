@@ -14,26 +14,26 @@
 
 [![JamesDev Status](https://github-readme-stats.vercel.app/api/top-langs/?username=doyle-flutter&layout=compact)](https://github.com/doyle-flutter?tab=repositories)
 
-Lang | FrameWork | GutHub
------------- | ------------- | ------------- 
-[Dart](https://github.com/doyle-flutter/basicDart) | Flutter | [Code 1](https://github.com/doyle-flutter/basicflutter) / [Code 2](https://github.com/doyle-flutter/Recipe)
-[JS](https://github.com/doyle-flutter/basicJavascript) | Node.js(Express.js) | [Code](https://github.com/doyle-flutter/basicflutter)
-JS | React | [Code - CDN](https://github.com/doyle-flutter/basicReact) / [Code - NextJS](https://github.com/doyle-flutter/NodeJsExpressNextJsReact)
+Lang | FrameWork | Des | GutHub
+------------ | ------------- |------------- | ------------- 
+[Dart](https://github.com/doyle-flutter/basicDart) | Flutter | APP | [Code 1](https://github.com/doyle-flutter/basicflutter) / [Code 2](https://github.com/doyle-flutter/Recipe)
+[JS](https://github.com/doyle-flutter/basicJavascript) | Node.js(Express.js) | Server-Side | [Code](https://github.com/doyle-flutter/basicflutter)
+JS | React | WEB | [Code - CDN](https://github.com/doyle-flutter/basicReact) / [Code - NextJS](https://github.com/doyle-flutter/NodeJsExpressNextJsReact)
 
 
 ## Sub Stack
-Lang | FrameWork | GutHub
------------- | ------------- | ------------- 
-Dart | Angel | [Code](https://github.com/doyle-flutter/Recipe)
-JS | Electron | [Code](https://github.com/doyle-flutter/myElectron)
-JS | React-Native | [Code](https://github.com/doyle-flutter/basicReactNative)
-JS | Svelte | [Code](https://github.com/doyle-flutter/basicSvelte)
-JS | Vue.js | [Code](https://github.com/doyle-flutter/basicVue)
-Python | Django | [Code](https://github.com/doyle-flutter/basicDjangoPython)
-Python | Flask | [Code](https://github.com/doyle-flutter/jamesPythonFlaskBackEnd)
-PHP | Laravel | [Code](https://github.com/doyle-flutter/basicPhpLaravel/tree/master/mylrv)
-C# | .Net | ...
-C | - | ...
+Lang | FrameWork | Des | GutHub
+------------ | ------------- |------------- | ------------- 
+Dart | Angel | Server-Side | [Code](https://github.com/doyle-flutter/Recipe)
+JS | Electron | Desktop | [Code](https://github.com/doyle-flutter/myElectron)
+JS | React-Native | APP | [Code](https://github.com/doyle-flutter/basicReactNative)
+JS | Svelte | WEB | [Code](https://github.com/doyle-flutter/basicSvelte)
+JS | Vue.js | WEB | [Code](https://github.com/doyle-flutter/basicVue)
+Python | Django | Server-Side | [Code](https://github.com/doyle-flutter/basicDjangoPython)
+Python | Flask | Server-Side | [Code](https://github.com/doyle-flutter/jamesPythonFlaskBackEnd)
+PHP | Laravel | Server-Side | [Code](https://github.com/doyle-flutter/basicPhpLaravel/tree/master/mylrv)
+C# | .Net | ... |  ....
+C | - | ... |  ....
 
 ## Work & Deploy
 - 펫트너
