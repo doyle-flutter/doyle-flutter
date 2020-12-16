@@ -14,6 +14,11 @@
 
 [![JamesDev Status](https://github-readme-stats.vercel.app/api/top-langs/?username=doyle-flutter&layout=compact)](https://github.com/doyle-flutter?tab=repositories)
 
+- Lang
+  - [Dart](https://github.com/doyle-flutter/basicDart)
+  - [JS](https://github.com/doyle-flutter/basicJavascript) 
+
+- FrameWork
 Lang | FrameWork | Des | GutHub
 ------------ | ------------- |------------- | ------------- 
 [Dart](https://github.com/doyle-flutter/basicDart) | Flutter | APP,WEB,Desktop | [Code 1](https://github.com/doyle-flutter/basicflutter) / [Code 2](https://github.com/doyle-flutter/Recipe)
