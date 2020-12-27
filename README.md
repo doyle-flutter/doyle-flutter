@@ -14,14 +14,14 @@
 
 [![JamesDev Status](https://github-readme-stats.vercel.app/api/top-langs/?username=doyle-flutter&layout=compact)](https://github.com/doyle-flutter?tab=repositories)
 
-- Lang
+- :dog: Lang
 
 Logo | Lang
 ------------ | -------------
 <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="60px"/> | [Dart](https://github.com/doyle-flutter/basicDart)
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60px" /> | [JS](https://github.com/doyle-flutter/basicJavascript) 
 
-- FrameWork  
+- :cat: FrameWork  
 
 Lang | Logo | FrameWork | Des | GutHub
 ------------ | ------------- |------------- | ------------- | ------------- 
