@@ -66,5 +66,5 @@ C | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2f
 
 ## Packages 
 - PUB : AirtableJ [Link](https://pub.dev/packages/airtablej)
-- NPM : https://www.npmjs.com/package/jamessdev-do-render
-- VscodeExtends : https://marketplace.visualstudio.com/items?itemName=jamessdev.dorender
+- NPM : jamessdev-do-render [Link](https://www.npmjs.com/package/jamessdev-do-render)
+- VscodeExtends : dorender [Link](https://marketplace.visualstudio.com/items?itemName=jamessdev.dorender)
