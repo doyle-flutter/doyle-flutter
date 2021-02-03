@@ -33,7 +33,7 @@ JS | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2
 Lang | Logo | FrameWork | Des | GutHub
 ------------ | ------------- |------------- | ------------- |-------------
 Dart | <img src="https://camo.githubusercontent.com/55acfd27b4476324f689df7df07599bd0a99ece969e9a89f159debba09a5380b/68747470733a2f2f616e67656c2d646172742e6769746875622e696f2f6173736574732f696d616765732f6c6f676f2e706e67" width="50px" /> | Angel | Server-Side | [Code](https://github.com/doyle-flutter/Recipe)
-JS | <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/fecece74182713.5c254609b1588.png" width="50px" /> | NestJS | ServerSide | [Code](https://github.com/doyle-flutter/nestJSjs)
+TS | <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/fecece74182713.5c254609b1588.png" width="50px" /> | NestJS | ServerSide | [Code](https://github.com/doyle-flutter/nestJSjs)
 JS | <img src="https://pbs.twimg.com/media/D3nL4CfUUAASPQ-?format=jpg&name=medium" width="50px" /> | HapiJS | ServerSide | [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4MHTX8lUnxrYdTo52yEq-Ly)
 JS | <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile28.uf.tistory.com%2Fimage%2F22477C33596715BF1C926B" width="50px" /> | Restify | ServerSide | [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4MHTX8lUnxrYdTo52yEq-Ly)
 JS | <img src="https://miro.medium.com/max/742/1*2TDREss7Pa_F5Z6CsHeD_w.jpeg" width="50px" /> | FeathersJS | ServerSide | [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4MHTX8lUnxrYdTo52yEq-Ly)
