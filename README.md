@@ -29,7 +29,7 @@ Dart | <img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c4
 JS | <img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" width="50px" /> | Node.js(Express.js) | Server-Side | [Code](https://github.com/doyle-flutter/basicexpress)
 JS | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50px" /> | React | WEB | [Code - CDN](https://github.com/doyle-flutter/basicReact) / [Code - NextJS](https://github.com/doyle-flutter/NodeJsExpressNextJsReact)
 JS | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" width="50px" /> | React-Native | APP | [Expo-Code](https://github.com/doyle-flutter/basicReactNative) / [HowTo](https://github.com/doyle-flutter/reactNativeHowTo)
-Python | <img src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67" width="60px" /> | FastAPI | ServerSide | [Code](https://github.com/doyle-flutter/docFastApi)
+
 
 ## Sub Stack
 Lang | Logo | FrameWork | Des | GutHub
@@ -52,6 +52,7 @@ GO | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2
 JAVA | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" width="50px" /> | SpringBoot | ServerSide | [Code](https://github.com/doyle-flutter/springBoot)
 Python | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="50px" /> | Django | ServerSide | [Code](https://github.com/doyle-flutter/basicDjangoPython) & [Code2](https://github.com/doyle-flutter/djangoStartApp)
 Python | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="50px" /> | Flask | ServerSide | [Code](https://github.com/doyle-flutter/jamesPythonFlaskBackEnd)
+Python | <img src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67" width="60px" /> | FastAPI | ServerSide | [Code](https://github.com/doyle-flutter/docFastApi)
 PHP | <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" width="50px" /> | Laravel | ServerSide | [Code](https://github.com/doyle-flutter/basicPhpLaravel/tree/master/mylrv)
 Ruby | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" width="50px" /> | Rails | ServerSide | [Code](https://github.com/doyle-flutter/docRails)
 C# | <img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" width="50px" /> | .Net | ... |  ....
