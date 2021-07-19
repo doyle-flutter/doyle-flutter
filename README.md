@@ -58,7 +58,6 @@ C# | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1MCYDBURJT
 C# | <img src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" width="50px" /> | Blazor | WEB | [Repo](https://github.com/doyle-flutter/RunBlazor)
 PHP | <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" width="50px" /> | Laravel | ServerSide | [Code](https://github.com/doyle-flutter/basicPhpLaravel/tree/master/mylrv)
 Ruby | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" width="50px" /> | Rails | ServerSide | [Code](https://github.com/doyle-flutter/docRails)
-C# | <img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" width="50px" /> | .Net | ... |  ....
 C | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="50px" /> | - | ... |  ....
 
 ## Work & Deploy
