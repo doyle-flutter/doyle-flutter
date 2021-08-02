@@ -61,8 +61,9 @@ Ruby | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4e
 C | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="50px" /> | - | ... |  ....
 
 ## ETC
-<img width="60px" src="https://user-images.githubusercontent.com/56661529/127896624-f5a04332-b1b5-40d9-a41b-6450d5013a32.png" />
-- Docker & Docker-Compose [link](https://github.com/doyle-flutter/Docker-DockerCompose)
+<img width="60px" src="https://user-images.githubusercontent.com/56661529/127896624-f5a04332-b1b5-40d9-a41b-6450d5013a32.png" /> 
+
+[Docker & Docker-Compose](https://github.com/doyle-flutter/Docker-DockerCompose)
 
 ## Work & Deploy
 - 펫트너
