@@ -63,7 +63,11 @@ C | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2f
 ## ETC
 <img width="60px" src="https://user-images.githubusercontent.com/56661529/127896624-f5a04332-b1b5-40d9-a41b-6450d5013a32.png" /> 
 
-[Docker & Docker-Compose](https://github.com/doyle-flutter/Docker-DockerCompose)
+<img width="40px%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" />
+
+[🔗 Docker & Docker-Compose](https://github.com/doyle-flutter/Docker-DockerCompose)
+[🔗 MiniKube & Docker](https://github.com/doyle-flutter/Docker-DockerCompose/blob/main/kube/MiniKubeNDocker/readme.md)
+
 
 ## Work & Deploy
 - 펫트너
