@@ -7,6 +7,7 @@
 - Taling - [1인 개발 과정 오프라인 수업](https://taling.me/Talent/Detail/10726)
 - Cafe - [네이버 JamesDev](https://cafe.naver.com/flutterjames)
 - Contact E-Mail - afzxc@naver.com
+- <a href="https://donaricano.com/creator/JamesDev"> ☕️ Donaricano</a>
 
 [![JamesDev github stats](https://github-readme-stats.vercel.app/api?username=doyle-flutter)](https://github.com/doyle-flutter?tab=repositories)  
 
